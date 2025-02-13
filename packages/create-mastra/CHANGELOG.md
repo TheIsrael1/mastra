@@ -1,5 +1,11 @@
 # create-mastra
 
+## 0.1.0-alpha.39
+
+### Patch Changes
+
+- fee6d63: Republish
+
 ## 0.1.0-alpha.38
 
 ### Patch Changes

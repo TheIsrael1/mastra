@@ -1,5 +1,18 @@
 # @mastra/deployer
 
+## 0.1.0-alpha.54
+
+### Patch Changes
+
+- 5fdc87c: Update evals storage in attachListeners
+- 6780223: fix workflow runId not unique per execution in dev
+- 72d1990: Updated evals table schema
+- Updated dependencies [5fdc87c]
+- Updated dependencies [72d1990]
+- Updated dependencies [cf6d825]
+- Updated dependencies [10870bc]
+  - @mastra/core@0.2.0-alpha.104
+
 ## 0.1.0-alpha.53
 
 ### Patch Changes
