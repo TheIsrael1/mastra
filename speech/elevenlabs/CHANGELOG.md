@@ -1,5 +1,15 @@
 # @mastra/speech-elevenlabs
 
+## 0.1.0-alpha.29
+
+### Patch Changes
+
+- Updated dependencies [5fdc87c]
+- Updated dependencies [72d1990]
+- Updated dependencies [cf6d825]
+- Updated dependencies [10870bc]
+  - @mastra/core@0.2.0-alpha.104
+
 ## 0.1.0-alpha.28
 
 ### Patch Changes
